@@ -1,0 +1,3 @@
+target_dir="/tmp/my_first_directory"
+chmod 755 my_first_directory
+#!/bin/bash
