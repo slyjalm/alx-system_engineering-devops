@@ -1,4 +1,2 @@
 #!/bin/bash
-target_dir="/tmp/my first directory"
-mkdir "$target_dir"
-
+$ file /tmp/my_first_directory/
